@@ -1,0 +1,97 @@
+
+\documentclass{article}
+\usepackage[utf8]{inputenc} % 支持 UTF-8 编码
+\usepackage{ctex}
+\usepackage{xcolor}
+\usepackage{tikz}
+\usetikzlibrary{tikzmark}
+\usepackage{amsmath}        % 数学公式支持
+\usepackage{graphicx}       % 图片插入支持
+\usepackage{geometry}       % 页面布局调整
+\usepackage{lipsum}
+\usepackage{tabularx}
+\usepackage{xcolor} % 设置颜色
+\usepackage{booktabs} % 提供美观的表格线条
+\usepackage{array}    % 提供增强的列格式支持
+\usepackage{multirow} % 支持多行合并单元格
+\usepackage{makecell} % 支持单元格内容换行
+%\usepackage[style=authoryear,backend=biber]{biblatex}
+\usepackage{tikz}
+\usepackage{array}
+\usepackage{diagbox}
+\usetikzlibrary{shapes,arrows.meta,positioning}
+\usepackage[
+colorlinks=true,          % 是否显示颜色而不是边框
+linkcolor=blue,           % 内部链接颜色（如目录、交叉引用）
+citecolor=red,            % 引用颜色
+urlcolor=blue             % URL 颜色
+]{hyperref}
+\geometry{a4paper, margin=1in} % 设置页面边距
+
+
+%\addbibresource{refs/references.bib} % 加载参考文献文件
+
+
+\begin{document}
+\pagenumbering{roman} % 设置页码为罗马数字
+% 封面
+\input{data/cover}
+
+%\maketitle
+
+% 学位论文指导小组、公开评阅人和答辩委员会名单
+% 本科生不需要
+%\input{data/committee}
+
+% 使用授权的说明
+% 本科生开题报告不需要
+%\copyrightpage
+% 将签字扫描后授权文件 scan-copyright.pdf 替换原始页面
+% \copyrightpage[file=scan-copyright.pdf]
+%\frontmatter
+\input{data/abstract}
+\newpage
+
+\tableofcontents % 目录
+%\addcontentsline{toc}{section}{abstract}
+%\addcontentsline{toc}{section}{Abstract}
+
+\clearpage % 强制开始新页，将目录与正文分开
+% 插图和附表清单
+% 本科生的插图索引和表格索引需要移至正文之后、参考文献前
+% \listoffiguresandtables  % 插图和附表清单（仅限研究生）
+%\listoffigures           % 插图清单
+%\listoftables            % 附表清单
+\pagenumbering{arabic} % 阿拉伯数字
+% 符号对照表
+%\input{data/denotation}
+
+
+% 正文部分
+%\mainmatter
+\input{data/sec01}
+\input{data/sec02}
+\input{data/sec03}
+\input{data/sec04}
+\input{data/sec05}
+\input{data/sec06}
+
+
+
+
+% 其他部分
+%\backmatter
+
+%\appendix
+%\input{data/appendix}
+\newpage
+% 参考文献
+
+\addcontentsline{toc}{section}{参考文献} % 将参考文献添加到目录中
+
+\bibliographystyle{unsrt}
+\bibliography{refs/references}
+
+
+
+\end{document}

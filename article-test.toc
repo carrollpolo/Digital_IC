@@ -1,0 +1,20 @@
+\contentsline {section}{摘要}{i}{Doc-Start}%
+\contentsline {section}{Abstract}{i}{Doc-Start}%
+\contentsline {section}{\numberline {1}绪论/Introduction}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Chiplet基本介绍}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}采用小芯片Chiplet技术的优点}{1}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Chiplet设计的挑战}{2}{subsection.1.3}%
+\contentsline {section}{\numberline {2}Die分区(Chiplet划分)}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Die 在芯片制造流程中的位置}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Die 的应用场景}{3}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Chiplet互联技术}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}2D MCM封装}{4}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}2.3D封装}{4}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}2.5D中介层技术}{4}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}3D片上系统：混合键合实现亚微米间距}{5}{subsection.3.4}%
+\contentsline {section}{\numberline {4}内存存储策略}{6}{section.4}%
+\contentsline {subsection}{\numberline {4.1}基于UCIe的M.link的内存存储层次结构}{6}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}以M.Link为例的时钟方案}{6}{subsection.4.2}%
+\contentsline {section}{\numberline {5}功耗与散热管理}{7}{section.5}%
+\contentsline {section}{\numberline {6}总结与展望/ConclusIon And RecommendAtIons}{8}{section.6}%
+\contentsline {section}{参考文献}{9}{section.6}%

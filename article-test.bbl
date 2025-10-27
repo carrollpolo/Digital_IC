@@ -1,0 +1,59 @@
+\begin{thebibliography}{1}
+
+\bibitem{Beyne2024Chiplet}
+Eric Beyne.
+\newblock Chiplet interconnect technology: Piecing together the next generation
+  of chips.
+
+\bibitem{PiacentiniFilho2024Chiplet}
+Roberto Piacentini~Filho.
+\newblock What is a chiplet, and why should you care? how a modular approach
+  can improve yield, reduce cost, and improve ppa/c.
+
+\bibitem{Miki2019Development}
+S.~Miki, H.~Taneda, and N.~Kobayashi.
+\newblock Development of 2.3d high density organic package using low
+  temperature bonding process with sn-bi solder.
+\newblock In {\em IEEE Electronic Components \& Technology Conference--2019},
+  pages 1599--1604, Baltimore, Maryland, USA. IEEE.
+
+\bibitem{8429741}
+Joeri De~Vos, Stefaan Van~Huylenbroeck, Anne Jourdain, Nancy Heylen, Lan Peng,
+  Geraldine Jamieson, Nina Tutunjyan, Stefano Sardo, Andy Miller, and Eric
+  Beyne.
+\newblock "hole-in-one tsv", a new via last concept for high density 3d-soc
+  interconnects.
+\newblock In {\em 2018 IEEE 68th Electronic Components and Technology
+  Conference (ECTC)}, pages 1499--1504, 2018.
+
+\bibitem{Sharma2020PCIe6}
+D.~D. Sharma.
+\newblock {PCI Express{\textregistered} 6.0 Specification at 64.0 GT/s with
+  PAM-4 Signaling: A Low Latency, High Bandwidth, High Reliability and
+  Cost-Effective Interconnect}.
+\newblock In {\em IEEE Symposium on High-Performance Interconnects (HOTI)},
+  pages 1--8. IEEE, 2020.
+
+\bibitem{10848977}
+Minsoon Hwang, Joohyung Kim, Taeho Lim, Namhyun Yun, Ieryung Park, Keeyoung
+  Kwon, Inhwa Jung, Dongsop Lee, and Euicheol Lim.
+\newblock Mosaic®: Chiplet architecture based on die-to-die interface for
+  cxl®memory applications and limitations in bandwidth, latency, and power.
+\newblock In {\em 2024 31st IEEE International Conference on Electronics,
+  Circuits and Systems (ICECS)}, pages 1--4, 2024.
+
+\bibitem{Heyman2024FloorPlanning}
+Karen Heyman.
+\newblock Floor-planning evolves into the chiplet era.
+
+\bibitem{11074799}
+Haoxiang Ren, Ziyi Guo, Ben Yang, Krutikesh Sahoo, Naarendharan~Meenakshi
+  Sundaram, Zoe Chen, Shrikant Singh, Timothy~S. Fisher, Chih-Kong~Ken Yang,
+  Behzad Razavi, Boris Vaisband, and Subramanian~S. Iyer.
+\newblock Power delivery for scaled-out chiplet-based wafer-scale systems with
+  $8{\mu}\mathrm{m}$ cu-cu bond pitch on active si-interconnect fabric
+  substrate.
+\newblock In {\em 2025 Symposium on VLSI Technology and Circuits (VLSI
+  Technology and Circuits)}, pages 1--3, 2025.
+
+\end{thebibliography}
