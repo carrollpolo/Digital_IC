@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.4.22)  27 OCT 2025 12:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.4.22)  30 OCT 2025 17:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1012,6 +1012,9 @@ LaTeX Warning: Label `fig:example' multiply defined.
 
 LaTeX Warning: Label `fig:example' multiply defined.
 
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
 )
 \openout1 = `article-test.aux'.
 
@@ -1205,12 +1208,12 @@ LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <10.53937> not available
 
 
 [2] (./data/sec01.tex
-<img/1-1.png, id=288, 1502.61375pt x 761.09344pt>
+<img/1-1.png, id=287, 1502.61375pt x 761.09344pt>
 File: img/1-1.png Graphic file (type png)
 <use img/1-1.png>
 Package pdftex.def Info: img/1-1.png  used on input line 10.
 (pdftex.def)             Requested size: 362.37569pt x 183.54877pt.
-<img/2.png, id=296, 1406.25375pt x 748.7975pt>
+<img/2.png, id=295, 1406.25375pt x 748.7975pt>
 File: img/2.png Graphic file (type png)
 <use img/2.png>
 Package pdftex.def Info: img/2.png  used on input line 29.
@@ -1235,40 +1238,27 @@ File: img/3-2.jpg Graphic file (type jpg)
 <use img/3-2.jpg>
 Package pdftex.def Info: img/3-2.jpg  used on input line 27.
 (pdftex.def)             Requested size: 271.7835pt x 81.10051pt.
-
-Overfull \hbox (16.61824pt too wide) in paragraph at lines 36--37
-[]\C70/rm/m/n/10.53937/57 ( \OT1/cmr/m/n/10.53937 2.5D \C70/rm/m/n/10.53937/96 
-Æ \C70/rm/m/n/10.53937/62 ^^P \C70/rm/m/n/10.53937/4e -|\C70/rm/m/n/10.53937/ff
- ^^L| \C70/rm/m/n/10.53937/82 ¯ \C70/rm/m/n/10.53937/72 G \C70/rm/m/n/10.53937/
-90 ^^Z \C70/rm/m/n/10.53937/8f Ç \C70/rm/m/n/10.53937/78 E|\C70/rm/m/n/10.53937
-/30 ^^A| \C70/rm/m/n/10.53937/67 	 : \C70/rm/m/n/10.53937/80 Z \C70/rm/m/n/10.5
-3937/54 ^^H \C70/rm/m/n/10.53937/72 i|\C70/rm/m/n/10.53937/30 ^^A| \C70/rm/m/n/
-10.53937/73 » \C70/rm/m/n/10.53937/74 ƒ \C70/rm/m/n/10.53937/62 ^^V \C70/rm/m/n
-/10.53937/5c B \C70/rm/m/n/10.53937/53 ‹ \C70/rm/m/n/10.53937/67 ^^? \C70/rm/m/
-n/10.53937/7b I \C70/rm/m/n/10.53937/51 l q \C70/rm/m/n/10.53937/57 ú \C70/rm/m
-/n/10.53937/67 ^^? \C70/rm/m/n/10.53937/8f Þ \C70/rm/m/n/10.53937/63 ¥|\C70/rm/
-m/n/10.53937/30 ^^B| \OT1/cmr/m/n/10.53937 IMEC(Interuniversity
- []
-
-<img/2.-silicon-interposer-tech2.png, id=354, 2007.5pt x 1129.21875pt>
-File: img/2.-silicon-interposer-tech2.png Graphic file (type png)
-<use img/2.-silicon-interposer-tech2.png>
-Package pdftex.def Info: img/2.-silicon-interposer-tech2.png  used on input lin
-e 45.
-(pdftex.def)             Requested size: 362.37569pt x 203.83644pt.
+<img/5.png, id=352, 1156.32pt x 741.77126pt>
+File: img/5.png Graphic file (type png)
+<use img/5.png>
+Package pdftex.def Info: img/5.png  used on input line 39.
+(pdftex.def)             Requested size: 271.7835pt x 174.3389pt.
 
 
-[4{d:/carro/TeXLive/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t
-s1.enc} <./img/3-2.jpg>]
-<img/3.-bump-pitch2.png, id=372, 2007.5pt x 1129.21875pt>
-File: img/3.-bump-pitch2.png Graphic file (type png)
-<use img/3.-bump-pitch2.png>
-Package pdftex.def Info: img/3.-bump-pitch2.png  used on input line 58.
-(pdftex.def)             Requested size: 362.37569pt x 203.83644pt.
+[4 <./img/3-2.jpg> <./img/5.png>]
+<img/6.png, id=369, 1084.05pt x 402.50375pt>
+File: img/6.png Graphic file (type png)
+<use img/6.png>
+Package pdftex.def Info: img/6.png  used on input line 49.
+(pdftex.def)             Requested size: 362.37569pt x 134.54633pt.
+<img/7.png, id=371, 542.025pt x 237.38687pt>
+File: img/7.png Graphic file (type png)
+<use img/7.png>
+Package pdftex.def Info: img/7.png  used on input line 62.
+(pdftex.def)             Requested size: 362.37569pt x 158.7115pt.
 
 
-[5 <./img/2.-silicon-interposer-tech2.png> <./img/3.-bump-pitch2.png>])
-(./data/sec04.tex
+[5 <./img/6.png> <./img/7.png>]) (./data/sec04.tex
 Overfull \hbox (27.18811pt too wide) in paragraph at lines 5--7
 \C70/rm/m/n/10.53937/91 Í \C70/rm/m/n/10.53937/70 ¹ \C70/rm/m/n/10.53937/80 ^^C
  \C70/rm/m/n/10.53937/86 Q \C70/rm/m/n/10.53937/54 Œ \C70/rm/m/n/10.53937/89 ã 
@@ -1285,15 +1275,16 @@ G \C70/rm/m/n/10.53937/4e ’ \C70/rm/m/n/10.53937/8f Þ \C70/rm/m/n/10.53937/67 ¶
 37/4e Ž\OT1/cmr/m/n/10.53937 UCIe(Universal
  []
 
-<img/4-1.png, id=387, 414.04688pt x 240.14719pt>
+<img/4-1.png, id=385, 414.04688pt x 240.14719pt>
 File: img/4-1.png Graphic file (type png)
 <use img/4-1.png>
 Package pdftex.def Info: img/4-1.png  used on input line 14.
 (pdftex.def)             Requested size: 271.7835pt x 157.63649pt.
 
 
-[6 <./img/4-1.png>]
-<img/4-2.png, id=401, 414.04688pt x 170.13562pt>
+[6{d:/carro/TeXLive/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t
+s1.enc} <./img/4-1.png>]
+<img/4-2.png, id=400, 414.04688pt x 170.13562pt>
 File: img/4-2.png Graphic file (type png)
 <use img/4-2.png>
 Package pdftex.def Info: img/4-2.png  used on input line 26.
@@ -1324,30 +1315,30 @@ LaTeX Font Warning: Size substitutions with differences
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `article-test.out' has not changed.
-(rerunfilecheck)             Checksum: 64B0D19624C02D0541019069215069D9;2618.
+(rerunfilecheck)             Checksum: F210A044D150B74EA2AAB338B2C7CE6B;2662.
  ) 
 Here is how much of TeX's memory you used:
- 28849 strings out of 469626
- 568853 string characters out of 5467889
- 1050344 words of memory out of 5000000
- 54697 multiletter control sequences out of 15000+600000
- 701747 words of font info for 313 fonts, out of 8000000 for 9000
+ 28842 strings out of 469626
+ 568427 string characters out of 5467889
+ 1045351 words of memory out of 5000000
+ 54690 multiletter control sequences out of 15000+600000
+ 701477 words of font info for 312 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  102i,8n,107p,1322b,575s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/s
-imhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows
-/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:
+<c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/s
+imhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows
+/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:
 /Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun
 .ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Font
 s/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Wind
 ows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc>
 <c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/sim
-sun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/F
-onts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/W
+sun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/F
+onts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/W
 indows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.t
-tc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/
+tc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/
 simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Window
-s/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c
+s/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c
 :/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhe
 i.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fon
 ts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Win
@@ -1394,10 +1385,10 @@ amsfonts/cm/cmr9.pfb><d:/carro/TeXLive/texlive/2025/texmf-dist/fonts/type1/publ
 ic/amsfonts/cm/cmti10.pfb><d:/carro/TeXLive/texlive/2025/texmf-dist/fonts/type1
 /public/amsfonts/cm/cmtt10.pfb><d:/carro/TeXLive/texlive/2025/texmf-dist/fonts/
 type1/public/cm-super/sfrm1000.pfb>
-Output written on article-test.pdf (12 pages, 2702257 bytes).
+Output written on article-test.pdf (12 pages, 2288816 bytes).
 PDF statistics:
- 888 PDF objects out of 1000 (max. 8388607)
+ 889 PDF objects out of 1000 (max. 8388607)
  617 compressed objects within 7 object streams
- 49 named destinations out of 1000 (max. 500000)
- 527 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 50 named destinations out of 1000 (max. 500000)
+ 528 words of extra memory for PDF output out of 10000 (max. 10000000)
 
